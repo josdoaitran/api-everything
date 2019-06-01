@@ -19,6 +19,8 @@ API document site: https://restful-booker.herokuapp.com/apidoc/index.html
 
 ## 2. Get method
 
+
+
 ```
 import requests
 
@@ -27,6 +29,12 @@ import requests
 
 
 ## 3. Post method
+
+
+```
+
+```
+
 
 Testing Practice Websites:
 
