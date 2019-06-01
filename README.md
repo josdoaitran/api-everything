@@ -25,5 +25,5 @@ API document site: https://restful-booker.herokuapp.com/apidoc/index.html
 
 Testing Practice Websites:
 
-1. https://restful-booker.herokuapp.com/booking/1/
+1. https://restful-booker.herokuapp.com
 2.
