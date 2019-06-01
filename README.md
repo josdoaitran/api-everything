@@ -12,7 +12,7 @@ Python 3
 
 Install request package:
 
-‘ pip install request ‘
+‘ pip install requests ‘
 
 
 API document site: https://restful-booker.herokuapp.com/apidoc/index.html
