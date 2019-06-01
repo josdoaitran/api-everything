@@ -14,6 +14,9 @@ Install request package:
 
 ~~ pip install request ~~ 
 
+
+API document site: https://restful-booker.herokuapp.com/apidoc/index.html
+
 ## 2. Get method
 
 
