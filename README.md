@@ -24,6 +24,7 @@ API document site: https://restful-booker.herokuapp.com/apidoc/index.html
 ```
 import requests
 
+def booking_request()
 
 ```
 
