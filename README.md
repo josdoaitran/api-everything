@@ -2,9 +2,9 @@
 API-AutomationTesting-Python
 
 
-## Basic API testing
+### 1. Basic API testing
 
-API testing:
+API testing: to performance 
 
 ### Install and set up
 
@@ -12,13 +12,13 @@ Python 3
 
 Install request package:
 
-~ pip install request ~ 
+~~ pip install request ~~ 
 
-### Get method
+### 2. Get method
 
 
 
-### Post method
+### 3. Post method
 
 Testing Practice Website:
 
