@@ -20,7 +20,7 @@ Install request package:
 
 ## 3. Post method
 
-Testing Practice Website:
+Testing Practice Websites:
 
-1. 
+1. https://restful-booker.herokuapp.com/booking/1/
 2.
