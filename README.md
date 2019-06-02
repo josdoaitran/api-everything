@@ -4,7 +4,7 @@ API-AutomationTesting-Python
 
 ## 1. Basic API testing
 
-API testing: to perform api testing we should use API client: Postman, SoapUI,  
+API testing: to perform api testing we should use API client: Postman, SoapUI, cURL in command line, ...
 
 ### Install and set up
 
