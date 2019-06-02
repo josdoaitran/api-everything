@@ -42,4 +42,4 @@ return requests.get(‘https://restful-booker.herokuapp.com/booking/{:d}/‘.for
 Testing Practice Websites:
 
 1. https://restful-booker.herokuapp.com
-2.
+2. https://reqres.in/
