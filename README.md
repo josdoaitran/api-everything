@@ -13,9 +13,7 @@ Python 3
 - Install request package:
 
 ```pip install requests```
-- Install json package
 
-```pip install json```
 - Install jsonpath package
 
 ```pip install jsonpath```

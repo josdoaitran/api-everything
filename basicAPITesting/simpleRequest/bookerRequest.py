@@ -1,13 +1,10 @@
 import requests
 import json
+import jsonpath
 
 
 def booking_request(booking_id):
     return requests.get('https://restful-booker.herokuapp.com/booking/{:d}/'.format(booking_id))
-
-
-def get_booking_request(booking_name):
-    return requests.get('https://restful-booker.herokuapp.com/booking/{:d}/'.format(booking_name))
 
 
 response = booking_request(10)
@@ -31,3 +28,6 @@ json_response = json.loads(response.text)
 print('As Json text: ')
 print(json_response)
 
+totalprice = jsonpath.jsonpath(json_response,'totalprice')
+
+print(totalprice)
