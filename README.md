@@ -10,9 +10,15 @@ API testing: to perform api testing we should use API client: Postman, SoapUI, c
 
 Python 3
 
-Install request package:
+- Install request package:
 
 ```pip install requests```
+- Install json package
+
+```pip install json```
+- Install jsonpath package
+
+```pip install jsonpath```
 
 
 API document site: https://restful-booker.herokuapp.com/apidoc/index.html
