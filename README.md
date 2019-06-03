@@ -25,6 +25,10 @@ API document site: https://restful-booker.herokuapp.com/apidoc/index.html
 
 ## 2. Get method
 
+- Get response
+
+
+- Fetch response content
 
 
 ## 3. Post method
