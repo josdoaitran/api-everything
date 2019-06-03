@@ -36,6 +36,11 @@ API document site: https://restful-booker.herokuapp.com/apidoc/index.html
 
 ```
 
+## 4. Assertion
+
+Using python Assert
+
+``` pip install pyassert```
 
 Testing Practice Websites:
 
