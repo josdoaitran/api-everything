@@ -31,3 +31,4 @@ print(json_response)
 totalprice = jsonpath.jsonpath(json_response,'totalprice')
 
 print(totalprice)
+print(totalprice[0])
